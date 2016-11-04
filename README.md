@@ -1,4 +1,4 @@
-# Código fonte do site [djangobrasil.org](http://www.djangobrasil.org)
+# Código fonte do site [django.org.br](http://www.django.org.br/)
 
 Deverá seguir a mesma identidade visual do [site oficial](https://www.djangoproject.com). ([repositório](https://github.com/django/djangoproject.com))
 
